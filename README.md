@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+Simple Maven Project using java application which we will host on tomcat server 
